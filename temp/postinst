@@ -1,0 +1,18 @@
+#!/bin/bash
+
+chown root:wheel /Applications/iFile.app/iFile
+chown root:wheel /Applications/iFile.app/iFile_
+chown root:wheel /Applications/iFile.app/iFile2
+chown root:wheel /Applications/iFile.app/iFile3
+
+chmod 755 /Applications/iFile.app/iFile
+chmod 4755 /Applications/iFile.app/iFile_
+chmod 4755 /Applications/iFile.app/iFile2
+chmod 4755 /Applications/iFile.app/iFile3
+
+echo "RESPRING YOUR DEVICE AFTER INSTALLING IFILE!!!"
+echo "RESPRING YOUR DEVICE AFTER INSTALLING IFILE!!!"
+echo "RESPRING YOUR DEVICE AFTER INSTALLING IFILE!!!"
+echo " "
+echo "Cracked by Fabius"
+exit 0
